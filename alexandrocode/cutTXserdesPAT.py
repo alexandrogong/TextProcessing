@@ -1,3 +1,4 @@
+# --uft8--
 # cut serdes wave to sync&loop wave and complie to serdes PAT
 import numpy as np
 import matplotlib.pylab as plt
